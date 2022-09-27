@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#000000</color>
+
+    <color name="payment_sdk_primary_color">#fc1055</color>
+    <color name="payment_sdk_secondary_color">#fc1055</color>
+    <color name="payment_sdk_separators_color">#fc1055</color>
+    <color name="payment_sdk_stroke_color">#A60735</color>
+    <color name="payment_sdk_button_text_color">#FFF</color>
+    <color name="payment_sdk_title_text_color">#FFF</color>
+    <color name="payment_sdk_button_background_color">#fc1055</color>
+    <color name="payment_sdk_background_color">#F9FAFD</color>
+    <color name="payment_sdk_card_background_color">#F9FAFD</color>
+
+    
+</resources>
