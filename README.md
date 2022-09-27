@@ -1,15 +1,11 @@
-<p align="center">
-    <img src="readme_demos/poster.png">
-</p>
-
 <h1 align="center">
     Features 🔥
 </h1>
 
 * Retrieve events from backend using REST APIs and displays them.
-* Filter events according to their category.
+* Filter events according to their category and view events details.
 * Purchase tickets using the PayTabs payment gateway.
-* Search & view events on a google maps display.
+
 
 <h1 align="center">
     Demo 💾 (The gifs may take time to load...)
@@ -19,12 +15,9 @@
 <img src="readme_demos/buy_ticket.gif" width=45% hspace="1%">
 </p>
 
-<h1 align="center">
- Technologies 💡
-</h1>
-<p align="center">
-    <img src="readme_demos/technologies.png">
-</p>
+
+
+
 
 <h1 align="center">
  Collaborators 👨 💻
@@ -42,6 +35,8 @@ Make sure you meet the following requirements:
 * You have flutter installed on your machine (updating to the latest version is preferred), if not, you can install it from [here](https://flutter.dev).
 * Your IDE has all the official flutter/dart plugins.
 * Your device/emulator is running android with a minimum sdk version of 30
+
+[Flutter PayTabs Bridge Package](https://pub.dev/packages/flutter_paytabs_bridge)
 
 <h1 align="center">
  How to Run 🚀
