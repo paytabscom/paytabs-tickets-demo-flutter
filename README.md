@@ -15,8 +15,8 @@
     Demo 💾 (The gifs may take time to load...)
 </h1>
 <p float="left" align="center">
-<img src="readme_demos/home_event_details.gif" width=30% hspace="1%">
-<img src="readme_demos/buy_ticket.gif" width=30% hspace="1%">
+<img src="readme_demos/home_event_details.gif" width=45% hspace="1%">
+<img src="readme_demos/buy_ticket.gif" width=45% hspace="1%">
 </p>
 
 <h1 align="center">
