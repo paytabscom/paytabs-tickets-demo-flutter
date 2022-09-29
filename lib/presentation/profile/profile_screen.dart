@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:ticket_app/presentation/styles/app_colors.dart';
 
-import '../router/router_names.dart';
-
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({Key? key}) : super(key: key);
 

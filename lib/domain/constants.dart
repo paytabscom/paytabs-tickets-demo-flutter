@@ -1,5 +1,3 @@
-import 'dart:async';
-
 const double dotRadius = 5;
 const double dotSpacing = 15;
 

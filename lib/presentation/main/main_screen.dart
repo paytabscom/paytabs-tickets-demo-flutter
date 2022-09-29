@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:ticket_app/domain/ext.dart';
 import 'package:ticket_app/presentation/resources/asset_images.dart';
-import 'package:ticket_app/presentation/router/router_names.dart';
 
 import '../home/home_screen.dart';
 import '../profile/profile_screen.dart';

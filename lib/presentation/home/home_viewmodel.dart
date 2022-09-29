@@ -1,5 +1,4 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ticket_app/domain/ext.dart';
 import 'package:ticket_app/domain/services/events_service.dart';
 
 import '../../domain/models/event.dart';

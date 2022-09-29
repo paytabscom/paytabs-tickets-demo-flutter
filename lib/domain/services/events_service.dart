@@ -1,5 +1,4 @@
 import 'package:dio/dio.dart';
-import 'package:flutter/cupertino.dart';
 import 'dart:convert';
 
 import '../models/event.dart';
@@ -18,9 +17,7 @@ class EventsService {
         EventsResponse eventsResponse = EventsResponse.fromJson(response.data);
         return eventsResponse.events;
       }
-    } catch (exception) {
-      debugPrint("Catch exception1: $exception");
-    }
+    } catch (exception) {}
     return <Event>[];
   }
 
@@ -34,9 +31,7 @@ class EventsService {
             UpcomingEventsResponse.fromJson(json.decode(response.data));
         return eventsResponse.upcomingevents;
       }
-    } catch (exception) {
-      debugPrint("Catch exception2: $exception");
-    }
+    } catch (exception) {}
     return <UpcomingEvents>[];
   }
 }
